@@ -1,0 +1,1 @@
+This is Julie2me's first git project!
